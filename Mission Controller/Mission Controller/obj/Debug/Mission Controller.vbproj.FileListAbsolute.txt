@@ -1,0 +1,12 @@
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\bin\Debug\Mission Controller.exe.config
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\bin\Debug\Mission Controller.exe
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\bin\Debug\Mission Controller.pdb
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\bin\Debug\Mission Controller.xml
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission Controller.vbprojResolveAssemblyReference.cache
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission_Controller.Form1.resources
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission_Controller.Resources.resources
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission Controller.vbproj.GenerateResource.Cache
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission Controller.vbproj.CoreCompileInputs.cache
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission Controller.exe
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission Controller.xml
+C:\Users\aspac\source\repos\Mission Controller\Mission Controller\obj\Debug\Mission Controller.pdb

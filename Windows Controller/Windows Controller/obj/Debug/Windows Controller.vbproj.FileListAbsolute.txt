@@ -1,0 +1,12 @@
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\bin\Debug\Windows Controller.exe.config
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\bin\Debug\Windows Controller.exe
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\bin\Debug\Windows Controller.pdb
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\bin\Debug\Windows Controller.xml
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows Controller.vbprojResolveAssemblyReference.cache
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows_Controller.Form1.resources
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows_Controller.Resources.resources
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows Controller.vbproj.GenerateResource.Cache
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows Controller.vbproj.CoreCompileInputs.cache
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows Controller.exe
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows Controller.xml
+C:\Users\aspac\source\repos\Windows Controller\Windows Controller\obj\Debug\Windows Controller.pdb
